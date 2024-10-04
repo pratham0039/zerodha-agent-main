@@ -8,7 +8,7 @@ import time
 import re
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
-api_key = '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'
+api_key = 
 client = OpenAI(api_key=api_key)
 assistant1 = "asst_fyIp1cXXJVKwdfYyBrvdXNXM"
 assistant2 = "asst_NWmIKGZK3eyzyNxsY2uDJaU3"
